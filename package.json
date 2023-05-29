@@ -14,8 +14,10 @@
     "expo-keep-awake": "~11.0.1",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
+    "react-dom": "^18.2.0",
     "react-native": "0.70.8",
-    "react-native-paper": "4.11.2"
+    "react-native-paper": "4.11.2",
+    "react-native-web": "~0.18.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
