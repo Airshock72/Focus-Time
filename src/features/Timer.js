@@ -103,5 +103,5 @@ const styles = StyleSheet.create({
   task: {
     color: colors.white,
     textAlign: 'center',
-  },
+  }
 });
