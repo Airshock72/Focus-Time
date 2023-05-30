@@ -11,11 +11,11 @@ import { Timing } from './Timing';
 const ONE_SECOND_IN_MS = 1000;
 
 const PATTERN = [
-  1 * ONE_SECOND_IN_MS,
-  1 * ONE_SECOND_IN_MS,
-  1 * ONE_SECOND_IN_MS,
-  1 * ONE_SECOND_IN_MS,
-  1 * ONE_SECOND_IN_MS,
+  ONE_SECOND_IN_MS,
+  ONE_SECOND_IN_MS,
+  ONE_SECOND_IN_MS,
+  ONE_SECOND_IN_MS,
+  ONE_SECOND_IN_MS,
 ];
 
 export const Timer = ({ focusSubject, clearSubject, onTimerEnd }) => {
